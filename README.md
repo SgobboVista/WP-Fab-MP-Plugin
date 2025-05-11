@@ -1,5 +1,5 @@
-# Wordpress-Plugins
-Our own Wordpress plugins
+# Wordpress Fab Marketplace Manager Plugin
+Our own Wordpress plugin for your Fab articles to manage.
 
 Terms of Use for SgobboVista WordPress Plugins
 
