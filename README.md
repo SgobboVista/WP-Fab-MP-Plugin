@@ -6,7 +6,7 @@ Terms of Use for SgobboVista WordPress Plugins
 By downloading, installing, or using any WordPress plugin developed by SgobboVista, you agree to the following terms:
 
 Usage Rights
-Our plugins are free to use for both personal and commercial projects, provided that proper credit is given. This means you must clearly and visibly mention “Plugin by SgobboVista” or link to our website https://sgobbovista.de somewhere in your project, such as in the footer, about page, or plugin settings.
+Our plugins are free to use for both personal and commercial projects, provided that proper credit is given. This means you must clearly and visibly mention “Plugin by SgobboVista” or link to our website https://www.sgobbovista.de somewhere in your project, such as in the footer, about page, or plugin settings.
 
 Prohibited Actions
 
